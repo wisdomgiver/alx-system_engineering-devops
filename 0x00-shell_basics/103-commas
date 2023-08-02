@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1Ap |sort -k1.1,1.1d -k1.2,1.2 | tr '\n' ',' | sed 's/,$/\n/'
+ls -pav  --quoting-style=literal | tr '\n' ',' | sed 's/,$/\n/'
