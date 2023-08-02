@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pav --group-directories-first  --quoting-style=literal | tr '\n' ', ' | sed 's/,$/\n/'
+ls -amvp
