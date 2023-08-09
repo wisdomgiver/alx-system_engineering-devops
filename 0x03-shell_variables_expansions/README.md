@@ -11,3 +11,4 @@
 10- Write a script that displays the result of BREATH to the power LOVE (BREATH and LOVE are environment variables; The script should display the result, followed by a new line)
 
 11-a script that converts a number from base 2 to base 10.
+12-Create a script that prints all possible combinations of two letters, except 00.
